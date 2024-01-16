@@ -1,4 +1,5 @@
 // Joona Niemenmaa 16/01/2024 App.java
+// A program that let's you play around with a hedgehog
 package main;
 
 import java.util.Scanner;
