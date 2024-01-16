@@ -14,7 +14,7 @@ public class Hedgehog
         String printout = "";
         switch (input) {
             case "":
-                printout = name + ": Olen " + name + " ja ikäni on " + age + ", mutta antaisitko silti syötteen?";
+                printout = "Olen " + name + " ja ikäni on " + age + " vuotta, mutta antaisitko silti syötteen?";
                 System.out.println(printout);
                 break;
         
